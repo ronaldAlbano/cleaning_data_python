@@ -5,6 +5,7 @@ Personal loans are a lucrative revenue stream for banks. The typical interest ra
 I have been asked to work with a bank to clean the data they collected as part of a recent marketing campaign, which aimed to get customers to take out a personal loan. They plan to conduct more marketing campaigns going forward so would like you to ensure it conforms to the specific structure and data types that they specify so that they can then use the cleaned data you provide to set up a PostgreSQL database, which will store this campaign's data and allow data from future campaigns to be easily imported. 
 
 
+-----
 
 
 **Task**
@@ -17,6 +18,7 @@ They have supplied me with a csv file called `"bank_marketing.csv"`, which I wil
 
 <img src="https://i.imghippo.com/files/f4uqh1722697404.png">
 
+-----
 
 **Action**
 
@@ -36,6 +38,7 @@ They have supplied me with a csv file called `"bank_marketing.csv"`, which I wil
 **Saving the Data**
 <img src="https://i.imghippo.com/files/vxnXi1722699466.png">
 
+-----
 
 **Results**
 Successfully cleaned and reformatted the data from bank_marketing.csv.
